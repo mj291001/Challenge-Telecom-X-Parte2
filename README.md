@@ -3,5 +3,6 @@
  
  Comenzando por la preparacion de datos, importando las bibliotecas necesarias, datos requeridos, eliminando o codificando columnas, balanceando clases, e incluso normalizando o estandarizando datos para un optimo análisis.
  Después se realizó un anális de correlación con las variables númericas y la evasión, obteniendo el siguiente gráfico:
+ ![Matriz de correlación](correlacion.png)
  
  
