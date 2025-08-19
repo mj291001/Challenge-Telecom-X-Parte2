@@ -5,8 +5,8 @@
  Después se realizó un anális de correlación con las variables númericas y la evasión, obteniendo el siguiente gráfico:
  ![Matriz de correlación](correlacion.png)
  En donde se observa que para meses de contrato y cargos totales la correlación es negativa, indicando que a mayor meses de contrato o cargos totales menor probabilidad de evasión, por el contrario para cargos mensuales y diarios, a mayor cargos se tienda más a cancelar el servicio.
-![Boxplot cargos totales vs evasión](boxplot1.png)
-![Boxplot meses de contrato vs evasión](boxplot2.png)
+![Boxplot cargos totales vs evasión](boxplot 1.png)
+![Boxplot meses de contrato vs evasión](boxplot 2.png)
 
 Finalizando el análisis dirigido (boxplots),se realizó el modelado predictivo mediante la separación de datos y creación de modelos "Regresión logística" y "Random forest", comparándolos aun cuando sus resultados fueron muy similiares pero con tendencia al underfitting y así mejorándolos para un mejor análisis, de esta manera se obtuvieron variables importantes en la probabilidad de evasión, entre las más importantes se encuentran las siguientes:
 ![Variables importantes](importancia de variables.png)
